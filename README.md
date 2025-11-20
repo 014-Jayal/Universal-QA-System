@@ -45,17 +45,18 @@ This system provides a powerful, local, privacy-preserving solution using Ollama
 
 ## Project Structure
 Universal-QA-System/
+├── app.py
+├── requirements.txt
+├── README.md
 ├── modules/
 │   ├── __init__.py
-│   ├── rag_engine.py       # Embeddings, vector DB, and RAG logic
-│   └── sql_engine.py       # NL2SQL parsing, SQL construction, query execution
+│   ├── rag_engine.py
+│   └── sql_engine.py
 ├── utils/
 │   ├── __init__.py
-│   └── file_loader.py      # PDF, DOCX, TXT parsing utilities
-├── temp_files/             # Temporary uploaded files
-├── app.py                  # Streamlit application
-├── requirements.txt        # Dependencies
-└── README.md               # Documentation
+│   └── file_loader.py
+├── temp_files/
+│   └── (temporary uploaded files)
 
 ---
 
