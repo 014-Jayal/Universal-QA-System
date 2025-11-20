@@ -66,7 +66,7 @@ Universal-QA-System/
 - Ollama installed and running locally
 
 ### Step 1: Clone the Repository
-git clone https://github.com/YOUR_USERNAME/Universal-QA-System.git
+git clone https://github.com/014-Jayal/Universal-QA-System.git
 
 ### Step 2: Create and Activate Virtual Environment
 Windows:
