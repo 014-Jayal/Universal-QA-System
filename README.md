@@ -44,6 +44,7 @@ This system provides a powerful, local, privacy-preserving solution using Ollama
 ---
 
 ## Project Structure
+```
 Universal-QA-System/
 ├── app.py
 ├── requirements.txt
@@ -57,7 +58,7 @@ Universal-QA-System/
 │   └── file_loader.py
 ├── temp_files/
 │   └── (temporary uploaded files)
-
+```
 ---
 
 ## Installation & Setup
