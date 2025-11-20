@@ -67,7 +67,6 @@ Universal-QA-System/
 
 ### Step 1: Clone the Repository
 git clone https://github.com/YOUR_USERNAME/Universal-QA-System.git
-cd Universal-QA-System
 
 ### Step 2: Create and Activate Virtual Environment
 Windows:
