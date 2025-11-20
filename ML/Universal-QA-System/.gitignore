@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# Project specific
+temp_files/
+*.db
+*.pdf
